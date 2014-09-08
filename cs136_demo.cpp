@@ -32,7 +32,7 @@ int main()
             
         default:
             cout<<"you did not enter 0 but "<<option<< ", program will still exit\n";
-            cout<<"Bye "<<name;
+            cout<<"Bye "<<name<<endl;
             break;
     }
     
